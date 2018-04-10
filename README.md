@@ -1,6 +1,6 @@
-# Year : General Domain Adaptation Tool
+# Year : General Domain Adaptation Python library
 
-Year is auto experiment tool for domain adaptation in deep learning. 
+Year is auto experiment library for domain adaptation in deep learning. 
 
 ## Getting started
 
